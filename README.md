@@ -1,4 +1,4 @@
-# 🩺 FAME-GENIX
+# 🩺 FAME-GENIX - Jynex Skyline x Bharat Cultural Hackathon 2026 
 
 ### AI-Powered Smart Health Monitoring, Risk Prediction & Emergency Response System
 
